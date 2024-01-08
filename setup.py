@@ -24,7 +24,7 @@ setup(
     description=DESCRIPTION,
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
-    package_dir={"": "src"}, # "src"
-    packages=find_packages(where="src"), # "where='src'"
-    install_requires=get_requirements("requirements.txt"),
+    package_dir={"": "src"},  # "src"
+    packages=find_packages(where="src"),  # "where='src'"
+    # install_requires=get_requirements("requirements.txt"),
 )
