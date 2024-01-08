@@ -16,7 +16,7 @@ def get_requirements(file_path):
 
 
 PROJECT_NAME = "naren_api"
-VERSION = "0.0.1"
+VERSION = "0.0.5"
 DESCRIPTION = "A small python package"
 AUTHOR = "NarenBot"
 AUTHOR_EMAIL = "narendas10@gmail.com"
