@@ -28,7 +28,7 @@ setup(
     author_email=AUTHOR_EMAIL,
     description=DESCRIPTION,
     long_description=LONG_DESCRIPTION,
-    long_description_content="text/markdown",
+    long_description_content_type="text/markdown",
     package_dir={"": "src"},  # "src"
     packages=find_packages(where="src"),  # "where='src'"
     # install_requires=get_requirements("requirements.txt"),
