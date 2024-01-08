@@ -12,9 +12,9 @@ def get_requirements(file_path):
     return requirements
 
 
-PROJECT_NAME = <YOUR_PROJECT_NAME>
-VERSION = "0.0.0"
-DESCRIPTION = <ENTER_DESCRIPTION_HERE>
+PROJECT_NAME = "naren_api"
+VERSION = "0.0.1"
+DESCRIPTION = "<ENTER_DESCRIPTION_HERE>"
 AUTHOR = "NarenBot"
 AUTHOR_EMAIL = "narendas10@gmail.com"
 
